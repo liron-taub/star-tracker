@@ -59,10 +59,10 @@ def find_common_stars(image_path1, image_path2):
         idx1 = np.argmin(dists1)
         idx2 = np.argmin(dists2)
 
-        if abs(dists1[idx1]-dists2[idx2]) < 200:  # Set the threshold for RANSAC here
+        if abs(dists1[idx1]-dists2[idx2]) < 200:  # threshold for RANSAC 
             inliers.append((stars1[i], stars2[i]))
 
-    # Print the number of overlapping stars and their positions
+    # Print the overlapping stars and their positions
     print("Number of overlapping stars: ", len(inliers))
     for i, inlier in enumerate(inliers):
         print("imag 1 star : ({}, {}) is overlapping with imag 2 star : ({}, {})".format(inlier[0][0], inlier[0][1], inlier[1][0], inlier[1][1]))
