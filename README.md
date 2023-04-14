@@ -33,4 +33,8 @@ Using the Euclidean width is exactly what we would like to do in order to find o
 The calculation is done by subtracting the position and taking the Euclidean distance as described in Wikipedia:
 [Euclidean distance](https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%97%D7%91_%D7%90%D7%95%D7%A7%D7%9C%D7%99%D7%93%D7%99)
 
+To run the code you need to install the following libraries:
+opencv
+numpy
+cv2
 
