@@ -6,6 +6,8 @@ And given a database of the positions of the stars - we would like to find a mat
 The first thing we had to do is that given an image we would be able to identify the stars in the image.
 Humans see every "picture" in the world as a range of numbers.
 For the purpose of this assignment, let's assume that this is a black and white grayscale image:
+
+
 ![enter image description here](https://raw.githubusercontent.com/liron-taub/star-tracker/main/%D7%90%D7%99%D7%9A%20%D7%91%D7%A0%D7%99%20%D7%90%D7%93%D7%9D%20%D7%A8%D7%95%D7%90%D7%99%D7%9D%20%D7%A6%D7%91%D7%A2%D7%99%D7%9D.png)
 
 Of course, the pictures in real life are not as nice and smooth pictures as we would like them to be.
