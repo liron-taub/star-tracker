@@ -52,6 +52,6 @@ The Euclidean plane is a set of points that maintain certain relationships, whic
 Using the Euclidean width is exactly what we would like to do to find overlapping stars between two images using the Ransack algorithm.
 The calculation is done by subtracting the position and taking the Euclidean distance as described in Wikipedia:
 [Euclidean distance](https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%97%D7%91_%D7%90%D7%95%D7%A7%D7%9C%D7%99%D7%93%D7%99)
-It is correct to use the calculation
-  Euclidean distance measures the distance in a straight line between two points in a plane.
+
+It is correct to use Euclidean distance measures because the distance in a straight line between two points in a plane.
   In the context of the code it measures the distance between the positions of two stars in the images. is a common method in image processing and computer vision tasks.
