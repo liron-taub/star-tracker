@@ -17,7 +17,7 @@ The second thing we had to do is that given an image we could identify the stars
 Humans see every "picture" in the world as a range of numbers.
 For this task, let's say it's a black and white grayscale image:
 
-![pixel in imag](https://raw.githubusercontent.com/liron-taub/star-tracker/main/%D7%90%D7%99%D7%9A%20%D7%91%D7%A0%D7%99%20%D7%90%D7%93%D7%9D%20%D7%A8%D7%95%D7%90%D7%99%D7%9D%20%D7%A6%D7%91%D7%A2%D7%99%D7%9D.png)
+[how we see :](https://github.com/liron-taub/star-tracker/blob/main/%D7%90%D7%99%D7%9A%20%D7%91%D7%A0%D7%99%20%D7%90%D7%93%D7%9D%20%D7%A8%D7%95%D7%90%D7%99%D7%9D%20%D7%A6%D7%91%D7%A2%D7%99%D7%9D.png)
 
 Of course the pictures in real life are not as beautiful and smooth as we would like them to be.
 The stars are not necessarily white and the sky is not necessarily black.
