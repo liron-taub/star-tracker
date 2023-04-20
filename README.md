@@ -17,7 +17,7 @@ The second thing we had to do is that given an image we could identify the stars
 Humans see every "picture" in the world as a range of numbers.
 For this task, let's say it's a black and white grayscale image:
 
-[how we see :](https://github.com/liron-taub/star-tracker/blob/main/%D7%90%D7%99%D7%9A%20%D7%91%D7%A0%D7%99%20%D7%90%D7%93%D7%9D%20%D7%A8%D7%95%D7%90%D7%99%D7%9D%20%D7%A6%D7%91%D7%A2%D7%99%D7%9D.png)
+[Click to see how we see pixel](https://github.com/liron-taub/star-tracker/blob/main/%D7%90%D7%99%D7%9A%20%D7%91%D7%A0%D7%99%20%D7%90%D7%93%D7%9D%20%D7%A8%D7%95%D7%90%D7%99%D7%9D%20%D7%A6%D7%91%D7%A2%D7%99%D7%9D.png)
 
 Of course the pictures in real life are not as beautiful and smooth as we would like them to be.
 The stars are not necessarily white and the sky is not necessarily black.
@@ -51,4 +51,4 @@ An explanation of what a Euclidean plane is: (taken from Wikipedia, attached lin
 The Euclidean plane is a set of points that maintain certain relationships, which can be expressed in terms of distance and angle. For example, there are two basic operations in an airplane. One is copying, that is, moving the plane so that all points on it move in the same direction and at the same distance. The second is a rotation around a fixed point in the plane, so that all the points in the plane will move at the same angle relative to the fixed point. One of the foundations of Euclidean geometry is that two bodies in a plane, i.e. subsets of the plane, are considered equivalent (overlapping) if it is possible to move from one to the other by way of copying, rotations and reflections.
 Using the Euclidean width is exactly what we would like to do to find overlapping stars between two images using the Ransack algorithm.
 The calculation is done by subtracting the position and taking the Euclidean distance as described in Wikipedia:
-[Euclidean distance](https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%97%D7%91_%D7%90%D7%95%D7%A7%D7%9C% D7%99%D7%93%D7%99)
+[Euclidean distance](https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%97%D7%91_%D7%90%D7%95%D7%A7%D7%9C%D7%99%D7%93%D7%99)
