@@ -1,5 +1,7 @@
 ***EX1***
+
 introduction:
+
 In the assignment I used the Paizarm software, in order to run this assignment you need to install the following libraries:
 openCV, numpy, cv2
 
